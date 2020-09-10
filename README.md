@@ -50,11 +50,21 @@ Here are some ideas to get you started:
 * 내용 3
 
 ### [Skyprinter](https://github.com/smilejin92/skyprinter) (2020/01 - 2020/02)
-*실시간 항공권 검색 API를 사용한 Skyscanner 클론 프로젝트*
+*실시간 항공권 검색 API를 사용한 Skyscanner 클론 프로젝트*<br/><br/>
+<code><img height="30" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
+<code><img height="30" alt="css" src="https://user-images.githubusercontent.com/32444914/92751856-58127b80-f3c3-11ea-9d8e-7122456c9a8f.png"></code>
+<code><img height="30" alt="javascript" src="https://user-images.githubusercontent.com/32444914/92752157-a293f800-f3c3-11ea-976f-126137b09e96.png"></code>
+<code><img height="30" alt="react" src="https://user-images.githubusercontent.com/32444914/92752344-d111d300-f3c3-11ea-9309-7c7cd203eba7.png"></code>
+<code><img height="30" alt="redux" src="https://user-images.githubusercontent.com/32444914/92752513-f43c8280-f3c3-11ea-82f2-9f7cc1ace820.png"></code>
+<code><img height="30" alt="redux saga" src="https://user-images.githubusercontent.com/32444914/92753423-d6235200-f3c4-11ea-809d-3be137429419.png"></code>
+<code><img height="30" alt="styled components" src="https://user-images.githubusercontent.com/32444914/92791986-1c3ddd00-f3e8-11ea-9642-1602199fb4d6.png"></code>
 
-* 내용 1
-* 내용 2
-* 내용 3
+* [Skyscanner API 문서 번역 및 API 요청 예제 작성](https://github.com/smilejin92/skyprinter/blob/master/RapidAPISkyscanner-API-Documentation.md)
+* [DatePicker 컴포넌트 개발](https://github.com/smilejin92/skyprinter/blob/master/src/components/Main/DatePicker/index.jsx)
+* [국가 및 언어 설정 컴포넌트 개발](https://github.com/smilejin92/skyprinter/blob/master/src/components/Header/Culture.jsx)
+* [티켓 컴포넌트 개발](https://github.com/smilejin92/skyprinter/blob/master/src/components/Main/TicketResult/TicketInfoDetail.jsx)
+* [Ducks 패턴을 적용한 Redux 모듈 구조 설계](https://github.com/smilejin92/skyprinter/tree/master/src/redux/modules)
+* [항공권 검색 요청 saga 함수 작성 - postSession](https://github.com/smilejin92/skyprinter/blob/master/src/redux/modules/session.js)
 
 ### [Complix](https://github.com/smilejin92/Complix) (2020/01/21)
 *제한 시간 24H. The MovieDB API로 넷플릭스 클론하기!*
@@ -82,9 +92,10 @@ Here are some ideas to get you started:
 <code><img height="40" alt="javascript" src="https://user-images.githubusercontent.com/32444914/92752157-a293f800-f3c3-11ea-976f-126137b09e96.png"></code>
 <code><img height="40" alt="react" src="https://user-images.githubusercontent.com/32444914/92752344-d111d300-f3c3-11ea-9309-7c7cd203eba7.png"></code>
 <code><img height="40" alt="redux" src="https://user-images.githubusercontent.com/32444914/92752513-f43c8280-f3c3-11ea-82f2-9f7cc1ace820.png"></code>
-<code><img height="40" alt="redux-saga" src="https://user-images.githubusercontent.com/32444914/92753423-d6235200-f3c4-11ea-809d-3be137429419.png"></code>
+<code><img height="40" alt="redux saga" src="https://user-images.githubusercontent.com/32444914/92753423-d6235200-f3c4-11ea-809d-3be137429419.png"></code>
 <code><img height="40" alt="webpack" src="https://user-images.githubusercontent.com/32444914/92752731-25b54e00-f3c4-11ea-8a1a-00daf1347abe.png"></code>
 <code><img height="40" alt="sass" src="https://user-images.githubusercontent.com/32444914/92753021-6dd47080-f3c4-11ea-93f3-5b76d8cc9096.png"></code>
+<code><img height="30" alt="styled components" src="https://user-images.githubusercontent.com/32444914/92791986-1c3ddd00-f3e8-11ea-9642-1602199fb4d6.png"></code>
 
 &nbsp;  
 
