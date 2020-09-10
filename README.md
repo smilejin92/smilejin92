@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 -->
 
 ## Working Experience
-### Fast Campus (2020-03 - present)
-**FE Development School - Teaching Assistant**
+### [Fast Campus](https://fastcampus.co.kr/) (2020/03 - present)
+*FE Development School - Teaching Assistant*
 
-* 테스트
-* 테스트
-* 테스트
+* React 학습 과제 리뷰 및 트러블슈팅
+* JavaScript 보조 강의 진행 및 질의 응답
+* HTML/CSS/JS 퀴즈 & 테스트 문제 제출
 
 
 ## Education
