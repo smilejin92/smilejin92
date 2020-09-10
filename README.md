@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 * task 2
 * task 3
 
+&nbsp;  
+
 ## 🎓 Education
 ### [Fast Campus](https://fastcampus.co.kr/) (2019/09 - 2020/02)
 *Enrolled in FE Development School*
@@ -46,5 +48,12 @@ Here are some ideas to get you started:
 *Major in Geography*<br/>
 *Minor in Informatics*
 
+&nbsp;  
+
 ## 👨🏻‍💻 Skills
+
+&nbsp;  
+
 ## 🖥 Projects
+
+&nbsp;  
