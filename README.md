@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 &nbsp;  
 
 ## 👨🏻‍💻 Skills
-
+**primarily using**<br/><br/>
 <code><img height="40" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
 <code><img height="40" alt="css" src="https://user-images.githubusercontent.com/32444914/92751856-58127b80-f3c3-11ea-9d8e-7122456c9a8f.png"></code>
 <code><img height="40" alt="javascript" src="https://user-images.githubusercontent.com/32444914/92752157-a293f800-f3c3-11ea-976f-126137b09e96.png"></code>
@@ -61,6 +61,14 @@ Here are some ideas to get you started:
 <code><img height="40" alt="redux-saga" src="https://user-images.githubusercontent.com/32444914/92753423-d6235200-f3c4-11ea-809d-3be137429419.png"></code>
 <code><img height="40" alt="webpack" src="https://user-images.githubusercontent.com/32444914/92752731-25b54e00-f3c4-11ea-8a1a-00daf1347abe.png"></code>
 <code><img height="40" alt="sass" src="https://user-images.githubusercontent.com/32444914/92753021-6dd47080-f3c4-11ea-93f3-5b76d8cc9096.png"></code>
+
+&nbsp;  
+
+**currently interested in**<br/><br/>
+<code><img height="40" alt="typescript" src="https://user-images.githubusercontent.com/32444914/92755183-8b0a3e80-f3c6-11ea-8c53-9a0bb04b8592.png"></code>
+<code><img height="40" alt="aws" src="https://user-images.githubusercontent.com/32444914/92755379-b8ef8300-f3c6-11ea-96a2-84aa6bd2d615.png" /></code>
+<code><img height="40" alt="nginx" src="https://user-images.githubusercontent.com/32444914/92755460-cd338000-f3c6-11ea-99fb-18097914a197.png" /></code>
+<code><img height="40" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
 &nbsp;  
 
