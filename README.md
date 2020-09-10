@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 * task 3
 
 ## 🎓 Education
-#### [Fast Campus](https://fastcampus.co.kr/) (2019/09 - 2020/02)
+### [Fast Campus](https://fastcampus.co.kr/) (2019/09 - 2020/02)
 *Enrolled in FE Development School*
 
-#### [University of Washington - Seattle](https://www.washington.edu/) (2011/09 - 2018/03)
+### [University of Washington - Seattle](https://www.washington.edu/) (2011/09 - 2018/03)
 *Major in Geography*<br/>
 *Minor in Informatics*
 
