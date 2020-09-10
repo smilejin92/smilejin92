@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 🖥 Projects
 ### [FE Casino](https://github.com/smilejin92/frontend-casino/tree/develop) (2020/6 - present)
-*자바스크립트만으로 상태기반 SPA를 만들 수 있을까?*
+*자바스크립트만으로 상태 기반 SPA를 만들 수 있을까?*
 
 * 내용 1
 * 내용 2
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 &nbsp;  
 
-## 👨🏻‍💻 Skills
+## 👨🏻‍💻 [Skills](https://github.com/smilejin92/TIL)
 **primarily using:**<br/><br/>
 <code><img height="40" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
 <code><img height="40" alt="css" src="https://user-images.githubusercontent.com/32444914/92751856-58127b80-f3c3-11ea-9d8e-7122456c9a8f.png"></code>
@@ -95,4 +95,3 @@ Here are some ideas to get you started:
 <code><img height="40" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
 &nbsp;  
-
