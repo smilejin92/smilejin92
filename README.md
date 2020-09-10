@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 ### [Standard Networks](http://www.standardnetworks.co.kr/customer/onapp/main.vw) (2019/06 - 2019/08)
 *네띠앙 사업본부 - Web Developer*
 
-* task 1
-* task 2
-* task 3
+* 싸다오 사이트 간편 로그인 서비스 개발 (JavaScript, Google Login API, OAuth 2.0)
+* 임직원 카페 Web POS UI 개발 (JavaScript, Web USB API)
+* 해외 VoIP 서비스 조사 (Bandwidth, Twilio, KDDI America)
+* MVC Los Angeles 2020 참가 기획 문서 번역
 
 &nbsp;  
 
