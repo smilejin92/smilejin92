@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 * JavaScript 보조 강의 진행 및 질의 응답
 * HTML/CSS/JS 퀴즈 & 테스트 문제 제작
 
+&nbsp;  
+
 ### [Standard Networks](http://www.standardnetworks.co.kr/customer/onapp/main.vw) (2019/06 - 2019/08)
 *네띠앙 사업본부 - Web Developer*
 
@@ -49,6 +51,8 @@ Here are some ideas to get you started:
 * 내용 2
 * 내용 3
 
+&nbsp;
+
 ### [Skyprinter](https://github.com/smilejin92/skyprinter) (2020/01 - 2020/02)
 *실시간 항공권 검색 API를 사용한 Skyscanner 클론 프로젝트*<br/><br/>
 <code><img height="30" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
@@ -66,6 +70,8 @@ Here are some ideas to get you started:
 * [Ducks 패턴을 적용한 Redux 모듈 구조 설계](https://github.com/smilejin92/skyprinter/tree/master/src/redux/modules)
 * [항공권 검색 요청 saga 함수 작성 - postSession](https://github.com/smilejin92/skyprinter/blob/master/src/redux/modules/session.js)
 
+&nbsp;
+
 ### [Complix](https://github.com/smilejin92/Complix) (2020/01/21)
 *제한 시간 24H. The MovieDB API로 넷플릭스 클론하기!*
 
@@ -78,6 +84,8 @@ Here are some ideas to get you started:
 ## 🎓 Education
 ### [Fast Campus](https://fastcampus.co.kr/) (2019/09 - 2020/02)
 *Enrolled in FE Development School*
+
+&nbsp;
 
 ### [University of Washington - Seattle](https://www.washington.edu/) (2011/09 - 2018/03)
 *Major in Geography*<br/>
