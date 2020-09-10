@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 * React 학습 과제 리뷰 및 트러블슈팅
 * JavaScript 보조 강의 진행 및 질의 응답
-* HTML/CSS/JS 퀴즈 & 테스트 문제 제출
+* HTML/CSS/JS 퀴즈 & 테스트 문제 제작
 
 ### [Standard Networks](http://www.standardnetworks.co.kr/customer/onapp/main.vw) (2019/06 - 2019/08)
 *네띠앙 사업본부 - Web Developer*
@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Skills
 
-<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312677-81e4ce00-d6b2-11ea-9549-5160e6933485.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312688-83ae9180-d6b2-11ea-88ef-46b665e0d603.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89361053-30b1fa00-d705-11ea-8deb-d187a64d8ace.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89361164-8090c100-d705-11ea-96c0-05489c96c1af.png"></code>
+<code><img height="40" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
+<code><img height="40" alt="css" src="https://user-images.githubusercontent.com/37237125/89312677-81e4ce00-d6b2-11ea-9549-5160e6933485.png"></code>
+<code><img height="40" alt="javascript" src="https://user-images.githubusercontent.com/37237125/89312688-83ae9180-d6b2-11ea-88ef-46b665e0d603.png"></code>
+<code><img height="40" alt="react" src="https://user-images.githubusercontent.com/37237125/89361053-30b1fa00-d705-11ea-8deb-d187a64d8ace.png"></code>
+<code><img height="40" alt="redux-saga" src="https://user-images.githubusercontent.com/37237125/89361164-8090c100-d705-11ea-96c0-05489c96c1af.png"></code>
 
 &nbsp;  
 
