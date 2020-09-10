@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 -->
 
 ## Working Experience
-**2020-03 - present**		**Teaching Assistant**
+### Fast Campus (2020-03 - present)
+**FE Development School - Teaching Assistant**
 
-<section styles="padding-left: 100px">
-  <h3>패스트캠퍼스</h3>
-	<ul>
-		<li>테스트</li>
-	</ul>
-</section>
+* 테스트
+* 테스트
+* 테스트
+
 
 ## Education
 ## Skills
