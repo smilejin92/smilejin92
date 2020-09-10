@@ -24,6 +24,22 @@ Here are some ideas to get you started:
 -->
 
 ## Working Experience
+**2020-03 - present**		**Teaching Assistant**
+
+<section styles="padding-left: 100px">
+  <h3>패스트캠퍼스</h3>
+	<ul>
+		<li>테스트</li>
+	</ul>
+</section>
+
+## Education
+## Skills
+
+## Projects
+
+
+
 ## Education
 ## Projects
 ## Skills
