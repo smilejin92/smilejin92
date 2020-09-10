@@ -52,6 +52,12 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Skills
 
+<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312677-81e4ce00-d6b2-11ea-9549-5160e6933485.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89312688-83ae9180-d6b2-11ea-88ef-46b665e0d603.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89361053-30b1fa00-d705-11ea-8deb-d187a64d8ace.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/37237125/89361164-8090c100-d705-11ea-96c0-05489c96c1af.png"></code>
+
 &nbsp;  
 
 ## 🖥 Projects
