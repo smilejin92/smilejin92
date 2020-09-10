@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+👨🏻‍💻 FE Web Developer
+✅ React JS
+✅ JavaScript (ES6+)
+✅ Semantic HTML
+✅ Responsive CSS
+✅ Webpack
+
 -->
