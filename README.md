@@ -41,6 +41,30 @@ Here are some ideas to get you started:
 
 &nbsp;  
 
+## 🖥 Projects
+### [FE Casino](https://github.com/smilejin92/frontend-casino/tree/develop) (2020/6 - present)
+*자바스크립트만으로 상태기반 SPA를 만들 수 있을까?*
+
+* 내용 1
+* 내용 2
+* 내용 3
+
+### [Skyprinter](https://github.com/smilejin92/skyprinter) (2020/01 - 2020/02)
+*실시간 항공권 검색 API를 사용한 Skyscanner 클론 프로젝트*
+
+* 내용 1
+* 내용 2
+* 내용 3
+
+### [Complix](https://github.com/smilejin92/Complix) (2020/01/21)
+*제한 시간 24H. The MovieDB API로 넷플릭스 클론하기!*
+
+* 내용 1
+* 내용 2
+* 내용 3
+
+&nbsp;  
+
 ## 🎓 Education
 ### [Fast Campus](https://fastcampus.co.kr/) (2019/09 - 2020/02)
 *Enrolled in FE Development School*
@@ -72,6 +96,3 @@ Here are some ideas to get you started:
 
 &nbsp;  
 
-## 🖥 Projects
-
-&nbsp;  
