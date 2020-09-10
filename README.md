@@ -54,10 +54,13 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 Skills
 
 <code><img height="40" alt="html" src="https://user-images.githubusercontent.com/37237125/89312669-801b0a80-d6b2-11ea-97cb-ceb59306e01b.png"></code>
-<code><img height="40" alt="css" src="https://user-images.githubusercontent.com/37237125/89312677-81e4ce00-d6b2-11ea-9549-5160e6933485.png"></code>
-<code><img height="40" alt="javascript" src="https://user-images.githubusercontent.com/37237125/89312688-83ae9180-d6b2-11ea-88ef-46b665e0d603.png"></code>
-<code><img height="40" alt="react" src="https://user-images.githubusercontent.com/37237125/89361053-30b1fa00-d705-11ea-8deb-d187a64d8ace.png"></code>
-<code><img height="40" alt="redux-saga" src="https://user-images.githubusercontent.com/37237125/89361164-8090c100-d705-11ea-96c0-05489c96c1af.png"></code>
+<code><img height="40" alt="css" src="https://user-images.githubusercontent.com/32444914/92751856-58127b80-f3c3-11ea-9d8e-7122456c9a8f.png"></code>
+<code><img height="40" alt="javascript" src="https://user-images.githubusercontent.com/32444914/92752157-a293f800-f3c3-11ea-976f-126137b09e96.png"></code>
+<code><img height="40" alt="react" src="https://user-images.githubusercontent.com/32444914/92752344-d111d300-f3c3-11ea-9309-7c7cd203eba7.png"></code>
+<code><img height="40" alt="redux" src="https://user-images.githubusercontent.com/32444914/92752513-f43c8280-f3c3-11ea-82f2-9f7cc1ace820.png"></code>
+<code><img height="40" alt="redux-saga" src="https://user-images.githubusercontent.com/32444914/92753423-d6235200-f3c4-11ea-809d-3be137429419.png"></code>
+<code><img height="40" alt="webpack" src="https://user-images.githubusercontent.com/32444914/92752731-25b54e00-f3c4-11ea-8a1a-00daf1347abe.png"></code>
+<code><img height="40" alt="sass" src="https://user-images.githubusercontent.com/32444914/92753021-6dd47080-f3c4-11ea-93f3-5b76d8cc9096.png"></code>
 
 &nbsp;  
 
