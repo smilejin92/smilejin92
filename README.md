@@ -55,15 +55,15 @@ Here are some ideas to get you started:
 <code><img height="30" alt="sass" src="https://user-images.githubusercontent.com/32444914/92753021-6dd47080-f3c4-11ea-93f3-5b76d8cc9096.png"></code>
 <code><img height="30" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
-* Webpack 파일 작성 및 프로젝트 환경 구축
-* lowdb를 활용한 Mock DB 생성 및 구조 설계
-* Node 서버 개발 및 API 작성
+* [Webpack 설정](https://github.com/smilejin92/frontend-casino/tree/develop/config) 및 개발 환경 구축
+* lowdb를 활용한 [Mock DB 구조 설계 및 생성](https://github.com/smilejin92/frontend-casino/blob/develop/db.json)
+* [Node 서버 개발 및 API 작성](https://github.com/smilejin92/frontend-casino/blob/develop/server.js)
 * JWT를 활용한 사용자 Authentication 구현
 * Authorization을 위한 API Middleware 작성
 * UI 컴포넌트 구조 설계
-* redux 모듈 구조 설계 및 개발
-* 비동기 로직을 위한 redux-saga 함수 작성
-* UI 컴포넌트별 Responsive 스타일 적용
+* [redux 모듈 구조 설계 및 개발](https://github.com/smilejin92/frontend-casino/tree/develop/src/redux/modules)
+* 비동기 로직 처리를 위한 redux-saga 함수 작성
+* UI 컴포넌트 Responsive 스타일 적용
 * History API를 사용한 페이지 라우팅
 
 &nbsp;
