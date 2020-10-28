@@ -128,6 +128,8 @@ Here are some ideas to get you started:
 <code><img height="40" alt="webpack" src="https://user-images.githubusercontent.com/32444914/92752731-25b54e00-f3c4-11ea-8a1a-00daf1347abe.png"></code>
 <code><img height="40" alt="sass" src="https://user-images.githubusercontent.com/32444914/92753021-6dd47080-f3c4-11ea-93f3-5b76d8cc9096.png"></code>
 <code><img height="40" alt="styled components" src="https://user-images.githubusercontent.com/32444914/92791986-1c3ddd00-f3e8-11ea-9642-1602199fb4d6.png"></code>
+<code><img height="40" alt="aws" src="https://user-images.githubusercontent.com/32444914/92755379-b8ef8300-f3c6-11ea-96a2-84aa6bd2d615.png" /></code>
+<code><img height="40" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
 &nbsp;  
 
