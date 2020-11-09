@@ -1,3 +1,5 @@
+# [책책책 책을 리뷰합시다 - 버그 수정 노트](https://slides.com/smilejin92/bookbookbook)
+
 <!--
 ### Hi there 👋
 
@@ -13,15 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-👨🏻‍💻 FE Web Developer
-✅ React JS
-✅ JavaScript (ES6+)
-✅ Semantic HTML
-✅ Responsive CSS
-✅ Webpack
-
--->
 
 ## 💼 Working Experience
 ### [Fast Campus](https://fastcampus.co.kr/) (2020/03 - present)
@@ -139,4 +132,6 @@ Here are some ideas to get you started:
 <code><img height="40" alt="nginx" src="https://user-images.githubusercontent.com/32444914/92755460-cd338000-f3c6-11ea-99fb-18097914a197.png" /></code>
 <code><img height="40" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
-&nbsp;  
+&nbsp;
+
+-->
