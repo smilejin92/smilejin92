@@ -1,7 +1,7 @@
-# [책책책 책을 리뷰합시다 - 버그 수정 노트](https://slides.com/smilejin92/bookbookbook)
-
 <!--
 ### Hi there 👋
+
+# [책책책 책을 리뷰합시다 - 버그 수정 노트](https://slides.com/smilejin92/bookbookbook)
 
 **smilejin92/smilejin92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
 
 ## 💼 Working Experience
 ### [Fast Campus](https://fastcampus.co.kr/) (2020/03 - present)
@@ -133,5 +135,3 @@ Here are some ideas to get you started:
 <code><img height="40" alt="node" src="https://user-images.githubusercontent.com/32444914/92755548-e3d9d700-f3c6-11ea-87b3-942238a6dcb3.png" /></code>
 
 &nbsp;
-
--->
